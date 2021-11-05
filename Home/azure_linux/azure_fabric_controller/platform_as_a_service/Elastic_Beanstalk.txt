@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-14T02:03:40-04:00
+
+====== Elastic Beanstalk ======
+Created Tuesday 14 September 2021
+
+References:
+[[https://www.youtube.com/watch?v=SrwxAScdyT0|[ref 1]]]	https://www.youtube.com/watch?v=SrwxAScdyT0
+
+What is the focus of PaaS?
+Writing code. [[https://www.youtube.com/watch?v=SrwxAScdyT0|[ref 1]]]
+
+What are some technologies supported by Elastic Beanstalk?
+[[+java]]
+[[+php]]
+[[+python]]
+[[+dot_net]]
+[[+node_dot_js]]
+[[+ruby]]
+[[+docker]]
+
+What are some key Beanstalk application terms?
+[[+load_balancing]]
+[[+provisioning]]
+[[+application_health_monitoring]]
+[[+auto_scaling]]
+
+
+

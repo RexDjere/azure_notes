@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:29:36-04:00
+
+====== azure vnet ======
+Created Monday 20 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview|[ref 1]]]	https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+What is an Azure Virtual Network (VNet)?
+Azure Virtual Network is the fundamental building block for your private network in Azure.	[[https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview|[ref 1]]]
+
+What does Azure VNet enable?
+Vnet enables many types of Azure resources, such as Azure Virtual Machines (VM),
+to securely communicate with each other, the Internet, and on-premises networks.
+
+
+

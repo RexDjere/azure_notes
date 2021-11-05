@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T15:37:46-04:00
+
+====== extensions marketplace ======
+Created Wednesday 25 August 2021
+
+Source documents:
+https://intercept.cloud/en/news/azure-devops-extensions-marketplace/#:~:text=Azure%20DevOps%20Services%20offer%20an%20outstanding%20work%20environment%20for%20any%20software%20company.&text=The%20Extensions%20Marketplace%20gives%20you,Azure%20DevOps%20environment%20with%20ease.
+
+Full name:
+Azure DevOps Extensions Marketpace
+
+What is the Azure DevOps Extension Marketplace?
+A marketplace where you can download apps and services that you can integrate into your Azure DevOps work environment.

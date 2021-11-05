@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T02:58:08-04:00
+
+====== Azure Government ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome|[ref 1]]]	https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome
+
+What is Azure Government?
+US Government agencies or the partners interested in cloud services that meet government security and compliance requirements,
+can be confident that Microsoft Azure Government provides world-class:	[[https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-welcome|[ref 1]]]
+* security
+* protection
+* compliance services
+

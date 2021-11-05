@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T23:40:08-04:00
+
+====== observability ======
+Created Thursday 23 September 2021
+
+References:
+[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]	https://aws.amazon.com/getting-started/fundamentals-core-concepts/
+
+What is Infrastructure as Code?	[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]
+* Infrastructure as code (IaC) is the process of managing your infrastructure through machine-readable configuration files.
+* IaC is the foundation that allows for the automation of your infrastructure.
+* Instead of manually provisioning services, you create templates that describe the resources that you want.
+* The IaC platform then takes care of provisioning and configuring the resources on your behalf.
+* IaC gives you a declarative and automated way of provisioning infrastructure.
+* It allows you to apply the same tool (e.g., git) and processes (e.g., code review) for your infrastructure as you already do for your code.
+* IaC on AWS has traditionally been implemented using [[+CloudFormation]] service.
+* CloudFormation requires declaring your resources using [[+JSON]] or [[+YAML]] .
+* If these configuration languages aren't your cup of tea, the AWS provides the [[+Cloud_Development_Kit]] (CDK) which allows you to author CloudFormation templates using native programming languages like [[+JavaScript]] , [[+Python]] , and [[+Java]] .
+
+Summarize Infrastructure as Code.	[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]
+* IaC is the process of managing infrastructure through machine-readable configuration files.
+* IaC is a [[+declarative]] and automated way of provisioning infrastucture.
+* You can apply the same tools and processes to your infrastructure as you do to your code.
+* Use services like CloudFOrmation and DCK to implement IaC on AWS.
+
+
+

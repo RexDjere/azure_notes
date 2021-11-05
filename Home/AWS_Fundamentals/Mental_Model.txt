@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T23:32:24-04:00
+
+====== Mental Model ======
+Created Thursday 23 September 2021
+
+References:
+[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]	https://aws.amazon.com/getting-started/fundamentals-core-concepts/
+
+What is the Mental Model?	[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]
+* When thinking about operational excellence in the cloud, it is useful to think of it in terms of [[+automation]] .
+* [[+Human_error]] is the primary cause of defects and operational incidents.
+* The more operations that can be automated, the less chance there is for human error.
+* In addition to preventing error, automation helps you to continuously improve your internal processes.
+* They promote a set of repeatable best practices that can be applied across your entire organization.

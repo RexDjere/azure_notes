@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T15:22:38-04:00
+
+====== Maven ======
+Created Wednesday 25 August 2021
+
+Source documents:
+https://en.wikipedia.org/wiki/Apache_Maven\
+
+Full name:
+Apache Maven
+
+What is Apache Maven?
+Maven is a build automation tool used primarily for Java projects.
+
+For what programming languages are Maven plugins built?
+* Go: https://github.com/raydac/mvn-golang
+* C++, C, and Fortran: https://maven-nar.github.io/index.html
+* Ruby: https://books.sonatype.com/mcookbook/reference/writing-plugins-alternative-sect-jruby.html
+* PHP: https://github.com/php-maven/maven-php-plugin
+* Scala: https://davidb.github.io/scala-maven-plugin/usage.html
+* SQL: https://www.mojohaus.org/sql-maven-plugin/
+

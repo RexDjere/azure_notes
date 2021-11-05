@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:54:38-04:00
+
+====== continuous testing ======
+Created Thursday 26 August 2021
+
+References:
+[[https://www.tricentis.com/products/what-is-continuous-testing/|[ref 1]]]	https://www.tricentis.com/products/what-is-continuous-testing/
+[[https://www.youtube.com/watch?v=kF-6Oj0H70I|[ref 2]]]	https://www.youtube.com/watch?v=kF-6Oj0H70I
+[[https://www.youtube.com/watch?v=RYQbmjLgubM|[ref 3]]]	https://www.youtube.com/watch?v=RYQbmjLgubM
+
+
+What is Continuous Testing?
+Continuous Testing is the process of executing automated tests as part of the software delivery pipeline 
+in order to obtain feedback on the business risks associated with a softare release candidate as rapidly as possible. [[https://www.tricentis.com/products/what-is-continuous-testing/|[ref 1]]]
+
+What is the purpose of Azure Test Plans?
+"Azure Test Plans - The test management and exploratory testing toolkit that lets you ship with confidence."	[[https://www.youtube.com/watch?v=kF-6Oj0H70I|[ref 2]]]
+
+What is the traditional continuous testing hierarchy? [[https://www.youtube.com/watch?v=RYQbmjLgubM|[ref 3]]]
+[[+UI_testing]]
+[[+API_testing]]
+[[+Unit_testing]]
+
+What is the modern continuous testing hierarchy? [[https://www.youtube.com/watch?v=RYQbmjLgubM|[ref 3]]]
+[[+Unit_testing]]
+[[+API_testing]]
+[[+UI_testing]]
+
+
+
+

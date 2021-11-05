@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-17T00:00:01-04:00
+
+====== build artifacts ======
+Created Thursday 16 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/artifacts-overview?view=azure-devops&tabs=nuget|[ref 1]]]	https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/artifacts-overview?view=azure-devops&tabs=nuget
+
+What are build artifacts?
+Build artifacts are the files produced by a build such as .dll, .exe, or .PDB files.

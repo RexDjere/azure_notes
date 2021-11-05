@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T15:25:42-04:00
+
+====== infrastructure as a service ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/IT_infrastructure|[ref 1]]]	https://en.wikipedia.org/wiki/IT_infrastructure
+
+What is infrastructure?
+Information technology infrastructure is defined broadly as a set of information technology (IT) components that are the foundation of an IT service;
+typically physical components (computer and networking hardware and facilities), but also various software and network components.
+
+

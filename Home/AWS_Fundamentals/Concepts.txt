@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T23:36:30-04:00
+
+====== Concepts ======
+Created Thursday 23 September 2021
+
+References:
+[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]	https://aws.amazon.com/getting-started/fundamentals-core-concepts/
+
+Describe Concepts.	[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]
+* When you think of operations as automation, you want to focus your efforts in the aread that currently reuqire the most manual work and might have the biggest consequence for error.
+* You'll also want to have a prcess in place to track, analyze, and improve your operational efforts.
+* We will focus on the folowing 2 concepts for operational excellence:
+	* [[+infrastructure_as_code]]
+	* [[+observability]]
+

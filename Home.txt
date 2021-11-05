@@ -1,0 +1,75 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-24T17:09:19-04:00
+
+====== Home ======
+Created Tuesday 24 August 2021
+
+References
+[[https://docs.microsoft.com/en-us/azure/advisor/advisor-overview|[ref 1]]] 	https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
+
+
+
+What is Micsrosoft Azure?
+A cloud computing platform and service created by Microsoft.
+
+What are the 4 primary functions of Azure?
+Azure relies on Microsoft-managed data centers to:
+[[+build]]
+[[+test]]
+[[+deploy]]
++manage
+applications and services.
+
+What is the purpose of Azure DevOps?
+[[+Azure_DevOps]] is used to plan, colloborate, and ship applications with modern development services.
+
+What is Azure Advisor?
+[[+Azure_Advisor]] is a personalized cloud consultant that helps you to follow best practices to optimize your Azure deployments.
+
+What is an Azure network security group?
+[[+network_security_group]]
+
+What is [[+ISO_9001_2015]] ?
+[[+ISO_9001_2015]] 
+
+Explain Azure Linux VMs.
+[[+azure_linux]]
+
+What is GDPR?
+[[+GDPR]]
+
+Discuss Azure Support.
+[[+support]]
+
+What are the 3 types of cloud computing?
+[[+SaaS]]
+[[+PaaS]]
+[[+IaaS]]
+
+What is version control?
+[[+version_control]]
+
+What is Azure Powershell?
+[[+powershell]]
+
+What is the advantage of an Azure Virtual Network?
+privacy: [[+azure_vnet]]
+
+What are the Amazon AWS Fundamentals?
+[[+AWS_Fundamentals]]
+
+What are some programming languages used to build code that can run on Azure?
+[[+C_plus_plus]]
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-14T01:55:00-04:00
+
+====== paas operating systems ======
+Created Tuesday 14 September 2021
+
+References:
+[[https://www.jdrosen.net/blog/paas-the-operating-system-of-the-cloud|[ref 1]]]	https://www.jdrosen.net/blog/paas-the-operating-system-of-the-cloud
+[[https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/|[ref 5]]]	https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/
+
+What is PaaS analogous to?
+The Operating System of the Cloud [[https://www.jdrosen.net/blog/paas-the-operating-system-of-the-cloud|[ref 1]]]
+
+Who provides PaaS operating systems?
+A PaaS vendor will provide and maintain the operating system that developers work on and that the applications run on. [[https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/|[ref 5]]]

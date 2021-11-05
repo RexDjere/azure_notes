@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T13:58:27-04:00
+
+====== Azure App Service ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/webapp?view=azure-devops&tabs=linux%2Cyaml
+
+What is Azure App Service?
+Azure App Service is a managed environment for hosting web applications, [[+REST_APIs]] , and mobile back ends.
+
+What are some programming languages that you can use to develop software on Azure App Service?
+[[+dot_NET]]
+[[+Python]]
+[[+JavaScript]]
+

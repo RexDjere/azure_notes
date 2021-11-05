@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:01:58-04:00
+
+====== REST APIs ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://www.redhat.com/en/topics/api/what-is-a-rest-api
+
+What is a REST API?
+A REST API (also known as a RESTful API) is an [[+application_programming_interface]] (API or web API) that conforms to the constraints of [[+REST]] architectural style
+and allows for interactions with RESTful web services.

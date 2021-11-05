@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:06:07-04:00
+
+====== support ======
+Created Monday 20 September 2021
+
+References:
+[[https://azure.microsoft.com/en-us/support/plans/standard/|[ref 1]]]	https://azure.microsoft.com/en-us/support/plans/standard/	
+
+
+Who is Azure Standard Support good for?
+[[+Azure_Standard_Support]] is a good choice for small or mid-sized companies with minimal business critical dependence on Microsoft Azure.

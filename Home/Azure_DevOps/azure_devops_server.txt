@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T15:04:54-04:00
+
+====== azure devops server ======
+Created Wednesday 25 August 2021
+
+Source documents:
+https://en.wikipedia.org/wiki/Azure_DevOps_Server
+
+Azure Devops Server:
+* is formerly known as Team Foundation Server (TFS)
+* is formerly known as Visual Studio Team System (VSTS)
+* is a Microsoft product
+* provides version control
+* provides reporting
+* provides requirements management
+* provides project management
+* provides automated builds
+* provides testing and release management capabilities
+
+What are the 2 different forms of Azure DevOps?
+* on-premise (Server)
+* online (Services)
+

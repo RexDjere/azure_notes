@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:13:18-04:00
+
+====== PaaS ======
+Created Monday 20 September 2021
+
+References:
+[[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/|[ref 1]]]	https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
+
+What are PaaS examples?	[[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/|[ref 1]]]
+[[+elastic_beanstalk]]
+[[+azure]]
+[[+heroku]]
+[[+force_dot_com]]
+[[+google_app_engine]]
+[[+openshift]]
+

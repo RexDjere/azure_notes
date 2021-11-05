@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:47:17-04:00
+
+====== network security group ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+What is the purpose of an Azure network security group?
+You can use an Azure network security group to filter network traffic to and from Azure resources in an Azure virtual network.

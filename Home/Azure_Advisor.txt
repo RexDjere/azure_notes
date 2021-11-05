@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:42:37-04:00
+
+====== Azure Advisor ======
+Created Thursday 26 August 2021
+
+Source documents:
+[[https://docs.microsoft.com/en-us/azure/advisor/advisor-overview|[ref 1]]]	https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
+[[https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending|[ref 2]]]	https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending
+
+
+
+What is Azure Advisor?
+Azure Advidor is a personalized cloud consultant that helps you to follow best practices to optimize your Azure deployments. [[https://docs.microsoft.com/en-us/azure/advisor/advisor-overview|[ref 1]]]
+
+What is an Azure Advisor Budget Alert?
+[[+budget_alert]]	[[https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending|[ref 2]]]

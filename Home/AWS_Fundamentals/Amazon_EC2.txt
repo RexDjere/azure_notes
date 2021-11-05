@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-06T23:45:50-04:00
+
+====== Amazon EC2 ======
+Created Wednesday 06 October 2021
+
+References:
+[[https://aws.amazon.com/ec2/|[ref 1]]]	 https://aws.amazon.com/ec2/
+[[https://www.youtube.com/watch?v=izyqJPl9wW8|[ref 2]]]	https://www.youtube.com/watch?v=izyqJPl9wW8
+
+What is Amazon EC2?
+Amazon Elastic Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. [[https://aws.amazon.com/ec2/|[ref 1]]]
+
+How does Netflix use AWS to power their website?	[[https://www.youtube.com/watch?v=izyqJPl9wW8|[ref 2]]]
+* Amazon EC2 (Compute Power)
+* Amazon S3 (Storage)
+* Amazon RDS (Database)
+
+What is Amazon EC2 equivalent to?
+A basic computer/a server computer.	[[https://www.youtube.com/watch?v=izyqJPl9wW8|[ref 2]]]
+
+How should you think of Amazon EC2?
+Think of EC2 as a virtual computer that you can use for whatever you like.	[[https://www.youtube.com/watch?v=izyqJPl9wW8|[ref 2]]]
+An EC2 server is an "instance".	[[https://www.youtube.com/watch?v=izyqJPl9wW8|[ref 2]]]
+
+
+
+

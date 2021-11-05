@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:15:33-04:00
+
+====== IaaS ======
+Created Monday 20 September 2021
+
+References:
+[[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/|[ref 1]]]	https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
+
+What are IaaS examples?	[[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/|[ref 1]]]
+[[+digital_ocean]]
+[[+linode]]
+[[+rackspace]]
+[[+aws]]
+[[+cisco_metacloud]]
+[[+azure]]
+[[+google_compute_engine]]
+

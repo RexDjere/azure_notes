@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-27T14:31:21-04:00
+
+====== test ======
+Created Friday 27 August 2021
+
+References:
+[[https://azure.microsoft.com/en-in/blog/deep-dive-into-azure-test-plans/|[ref 1]]]	https://azure.microsoft.com/en-in/blog/deep-dive-into-azure-test-plans/
+
+Describe [[Home:Azure DevOps:azure test plans|Azure Test Plans]].	[[https://azure.microsoft.com/en-in/blog/deep-dive-into-azure-test-plans/|[ref 1]]]
+* launched in September of 2018 along with [[Home:Azure DevOps|Azure DevOps]].
+* provided a browser-based test management solution for:
+	* exploratory testing
+	* planned manual testing
+	* [[+user_acceptance_testing|user acceptance testing]]
+
+Describe the Azure Test Plans browser extension.
+Azure Test Plans provides a browser extension for exploratory testing and gathering feedback from stakeholders. [[https://azure.microsoft.com/en-in/blog/deep-dive-into-azure-test-plans/|[ref 1]]]
+
+Describe the importance of [[+manual_testing|manual]] and [[+exploratory_testing|exploratory]] testing in Azure Test Plans.
+Manual and exploratory testing continue to be important techniques for evaluating quality of a product/service, alongside the DevOps emphasis on automated testing.
+

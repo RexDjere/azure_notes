@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-02T00:26:20-04:00
+
+====== Concepts library ======
+Created Tuesday 02 November 2021
+
+References:
+[[https://www.youtube.com/watch?v=dR64GQb4AGo|[ref 1]]]	C++ Weekly - Ep 194 - From SFINAE To Concepts With C++20: https://www.youtube.com/watch?v=dR64GQb4AGo
+[[https://en.wikipedia.org/wiki/Concepts_(C%2B%2B)|[ref 2]]]	https://en.wikipedia.org/wiki/Concepts_(C%2B%2B)
+
+What is a C++ concept?
+Concepts are an extension to the [[+templates]] feature provided by the C++ programming language.	[[https://en.wikipedia.org/wiki/Concepts_(C%2B%2B)|[ref 2]]]
+
+What are th 4 main uses of concepts in C++?	[[https://en.wikipedia.org/wiki/Concepts_(C%2B%2B)|[ref 2]]]
+1. introducing type-checking to template programming.
+2. simplified compiler diagnostics for failed template instantiation.
+3. selecting function template overloads and class template specializations based on type properties.
+4. constraining automatic type deduction.
+

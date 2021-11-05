@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:28:52-04:00
+
+====== dot NET ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://en.wikipedia.org/wiki/.NET_Framework
+
+What is the .NET Framework?
+The .NET Framework is a software framework developed by [[+Microsoft]] that runs primarily on [[+Microsoft_WIndows.]] .

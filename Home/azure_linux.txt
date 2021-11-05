@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T14:42:22-04:00
+
+====== azure linux ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux|[ref 1]]]	https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux
+
+What is the Microsoft Azure Linux Agent?
+The Microsoft Azurre Linux Agent (waagent) manages Linux and FreeBSD provisioning, and VM interaction with [[+azure_fabric_controller|Azure Fabric Controller]].	[[https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux|[ref 1]]]

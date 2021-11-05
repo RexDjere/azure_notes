@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:21:06-04:00
+
+====== powershell ======
+Created Monday 20 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.4.0#:~:text=Azure%20PowerShell%20is%20a%20set,provides%20powerful%20features%20for%20automation.&text=NET%20Standard%2C%20Azure%20PowerShell%20works,5.1%20on%20Windows%2C%20PowerShell%207.0.|[ref 1]]]	https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.4.0#:~:text=Azure%20PowerShell%20is%20a%20set,provides%20powerful%20features%20for%20automation.&text=NET%20Standard%2C%20Azure%20PowerShell%20works,5.1%20on%20Windows%2C%20PowerShell%207.0
+
+What is PowerShelll?
+Azure Powershell is a set of cmdlets for managing Azure resources directly from the PowerShell command line.	[[https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.4.0#:~:text=Azure%20PowerShell%20is%20a%20set,provides%20powerful%20features%20for%20automation.&text=NET%20Standard%2C%20Azure%20PowerShell%20works,5.1%20on%20Windows%2C%20PowerShell%207.0.|[ref 1]]]
+

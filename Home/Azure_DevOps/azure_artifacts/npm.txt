@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T15:32:53-04:00
+
+====== npm ======
+Created Wednesday 25 August 2021
+
+Source document:
+https://en.wikipedia.org/wiki/Npm_(software)
+
+Full name:
+Node Package Manager
+
+What is npm?
+npm is a package manager for the Javascript programming language maintained by npm, Inc.

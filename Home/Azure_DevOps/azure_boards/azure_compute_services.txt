@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T17:18:53-04:00
+
+====== azure compute services ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]]	https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview
+
+Describe Azure Compute Services.
+Azure compute is an on-demand computing service for running [[+cloud_based_applications]] .	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]]
+
+How do you pay for Azure compute services?
+You pay only for the resources you use, and only for as long as you're using them.	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]]
+
+How are Azure compute resourses available?
+On demand.	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]]
+
+How soon can Azure compute resources be available?
+in minutes or even seconds.	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]]
+
+What does azure support?	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]]
+* development
+* testing
+* running applications
+* extending your datacenter
+
+What platforms does Azure support?
+[[+Linux]]
+[[+Windows_Server]]
+[[+SQL_Server]]
+[[+Oracle]]
+[[+IBM]]
+[[+SAP]]
+
+What are some of the most prominent Azure services?
+[[+Azure_Virtual_Machines]]
+[[+Azure_Container_Instances]]
+[[+Azure_App_Service]]
+[[+Azure_Functions]] aka [[+Serverless_Computing]]
+
+

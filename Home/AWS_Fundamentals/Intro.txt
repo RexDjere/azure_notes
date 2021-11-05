@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T23:24:05-04:00
+
+====== Intro ======
+Created Thursday 23 September 2021
+
+References:
+[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]	https://aws.amazon.com/getting-started/fundamentals-core-concepts/
+
+Describe the Intro.
+A short description of the pillar we will be focusing on.
+
+What are the Five Pillars?	[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]
+[[+Operational_Excellence]]
+[[+Security]]
+[[+Reliability]]
+[[+Performance_Efficiency]]
+[[+Cost_Optimization]]
+

@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T17:31:54-04:00
+
+====== IaaS ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).|[ref 1]]]	https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).
+
+What is infrastructure as a service?
+Infrastructure as a service (IaaS) is a system of cloud computing that delivers virtualized computing resources over the Internet.	[[https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).|[ref 1]]]
+
+What are the benefits of IaaS?	[[https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).|[ref 1]]]
+* cost savings
+* elasticity
+* accessibility
+
+What are the 2 deployment models for IaaS?	[[https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).|[ref 1]]]
+[[+public_cloud]]
+[[+private_cloud]]
+
+What computing resources does IaaS provide? [[https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).|[ref 1]]]
+* servers
+* storage
+* networking
+
+What are the main features of IaaS?	[[https://www.netapp.com/knowledge-center/what-is-infrastructure-as-a-service-iaas/#:~:text=Infrastructure%20as%20a%20service%20(IaaS)%20is%20a%20system%20of%20cloud,as%20a%20service%20(PaaS).|[ref 1]]]
+* Customers pay for IaaS on-demand without purchasing hardware.
+* Infrastructure is scalable.
+* There is no singular point of failure, because data lives in the cloud.
+* Empowers the virtualization of administrative tasks.
+* No costs associated with buying and maintaining hardware.
+
+
+
+
+
+

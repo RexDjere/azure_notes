@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-01T14:45:38-04:00
+
+====== azure fabric controller ======
+Created Wednesday 01 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview|[ref 1]]]	https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview
+[[https://www.netreo.com/cloud-monitoring/what-is-azure-fabric-controller/|[ref 2]]]	https://www.netreo.com/cloud-monitoring/what-is-azure-fabric-controller/
+[[https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure|[ref 3]]]	https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure
+
+What is Azure Service Fabric?
+Azure Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers.	[[https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview|[ref 1]]]
+
+What is Azure Fabric Controller?
+"Azure Fabric Controller is a native component of Azure Service Platform that manages the hardware resources provisioned for hosted software applications."	[[https://www.netreo.com/cloud-monitoring/what-is-azure-fabric-controller/|[ref 2]]]
+
+What does the fabric controller do?
+It allocates services, monitors the health of the server and the services running on it, and heals servers when they fail.	[[https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure|[ref 3]]]
+
+What are some Azure services?
+[[+platform_as_a_service]]
+[[+infrastructure_as_a_service]]
+[[+software_as_a_service]]
+
+

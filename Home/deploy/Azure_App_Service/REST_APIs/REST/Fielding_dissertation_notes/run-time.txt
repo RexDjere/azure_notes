@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:15:02-04:00
+
+====== run-time ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://searchsoftwarequality.techtarget.com/definition/runtime#:~:text=Runtime%20is%20when%20a%20program%20is%20running%20(or%20being%20executable).&text=In%20some%20programming%20languages%2C%20certain,program%20when%20it%20is%20running.
+
+What is a runtime?
+Runtime is when a program is running (or being executable).
+When you start a program running in a computer, it is the runtime for that program.

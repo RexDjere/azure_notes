@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-22T17:26:32-04:00
+
+====== Azure Virtual Machines ======
+Created Wednesday 22 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]] 	https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview
+
+What is a virtual machine?
+Virtual machines are software emulations of physical computers.	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]] 
+
+what do virtual machines include?
+[[+virtual_processor]]
+[[+memory]]
+[[+storage]]
+[[+networking_resources]]
+
+What can VMs do?	[[https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview|[ref 1]]] 
+* host an operating system
+* you can install and run software
+
+How can you remotely sue and control a VM?
+Using a [[+remote_desktop_client]]
+
+What do virtual machines provide
+infrastructure as a service : [[+IaaS]]
+
+

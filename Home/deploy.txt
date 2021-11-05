@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T13:55:41-04:00
+
+====== deploy ======
+Created Thursday 26 August 2021
+
+Source documements:
+https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/webapp?view=azure-devops&tabs=linux%2Cyaml
+
+How do you deploy an Azure Web App?
+You can use [[Home:Azure DevOps:azure pipelines|Azure Pipelines]] to continuously deploy your web app to [[+Azure_App_Service]] on every successful build.

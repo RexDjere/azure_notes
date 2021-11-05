@@ -1,0 +1,251 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-23T23:22:21-04:00
+
+====== AWS Fundamentals ======
+Created Thursday 23 September 2021
+
+References:
+[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]	https://aws.amazon.com/getting-started/fundamentals-core-concepts/
+[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]	https://www.youtube.com/watch?v=ulprqHHWlng
+[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]	https://aws.amazon.com/about-aws/global-infrastructure/
+[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]	https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb
+
+What is the structure of AWS fundamentals?	[[https://aws.amazon.com/getting-started/fundamentals-core-concepts/|[ref 1]]]
+[[+Intro]]
+[[+Mental_Model]]
+[[+Concepts]]
+[[+Conclusion]]
+[[+Further_Reading]]
+
+Who is Neal Davis?
+[[+Neal_Davis_AWS]] is the founder of [[+Digital_Cloud_Training]] .	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+When was Amazon Web Services (AWS) launched?
+Internally launched in 2002.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+When was a public offering of AWS considered?
+Vision set out for AWS publicly with potential for public offerings 2003.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+When was the AWS public launch?
+Amazon [[+SQS]] public launch 2002.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+When was the re-launch of AWS?
+Re-launch with [[+S3]] , [[+SQS]] , [[+EC2]] 2006.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+When was Amazon.com migrated to AWS?
+All Amazon.com retail sites migrated to AWS 2010.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+What were AWS' sales in 2015?
+Sales of %1.57 billion 2015.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+What was AWS' revenue in 2018?
+Revenue of $25 billion 2018.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+What are the AWS service categories?	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+[[+Compute]]
+[[+Database]]
+[[+Networking]]
+[[+Developer_Tools]]
+[[+Management_Tools]]
+[[+Security_and_Identity]]
+[[+Analytics]]
+[[+Internet_of_Things]]
+[[+Game_Development]]
+[[+Mobile_Services]]
+[[+Application_Services]]
+[[+Enterprise_Applications]]
+
+What are the components of the AWS Global Infrastructure?
+[[+Region]]
+[[+Availability_Zone]]
+[[+AWS_Global_Network]]	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+What is an Availability Zone composed of?
+An Availability Zone is composed of one or more [[+data_centers|data centers]].	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+What is a region composed of?
+Each region consists of two or more Availability Zones.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+Discuss region dependence.
+Each region is completely independent.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+How many AWS regions were there as of 2021?
+There are 24 regions around the world.	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+How are regions connected?
+Every region is connected via a high bandwidth, low-latency, fully redundant network (The AWS Global Network).	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+Where is the AWS Global Infrastructure website?	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+https://aws.amazon.com/about-aws/global-infrastructure/
+
+What are the 3 fundamentals of pricing on AWS?	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+[[+Compute]]
+[[+Storage]]
+[[+Outbound_Data_Transfer]]
+
+Where is the AWS pricing page?
+https://aws.amazon.com/pricing/	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+
+How can you pay for AWS?	[[https://www.youtube.com/watch?v=ulprqHHWlng|[ref 2]]]
+* pay as you go
+* save when you reserve
+* pay less by using more
+
+What is Amazon EC2?
+[[+Amazon_EC2]]
+
+
+What the characteristics of the AWS Global Cloud Infrastructure?	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+[[+secure]]
+[[+extensive]]
+[[+reliable]]
+[[+cloud_platform]]
+
+How many services are offered on AWS?
+Offering over 200 fully featured services from data centers globally.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+
+What are the workload characteristics of AWS?	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+[[+single_click_deployment]]
+[[+specific_applications]]
+[[+close_to_users]]
+[[+low_latency]]
+
+Discuss AWS users and partners.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* millions of active customers.
+* tens of thousands of partners globally.
+
+Describe the AWS ecosystem.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* largest 
+* most dynamic
+
+Describe AWS customers.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* every industry
+* every size
+* start-ups
+* public sector organizations
+* running every imaginable use case on AWS.
+
+Discuss AWS Regions.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* 25 Launched Regions
+* Each with multiple Availability Zones (AZ's)
+
+Discuss AWS Availability Zones.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* 81 Availability Zones
+
+Discuss other AWS Zones.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* 11 [[+Local_Zones|Local Zones]]
+* 17 [[+Wavelength_Zones|Wavelength Zones]]
+* For ultralow latency applications
+
+Discuss AWS "Announced".	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* 8 [[+Announced_Regions|Announced Regions]].
+* 6 [[+Announced_Local_Zones|Announced Local Zones]].
+
+Discuss AWS Points of Presence.	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+* 230+ [[+Points_of_Presence|Points of Presence]].
+* 218+ [[+Edge_Locations|Edge Locations]] and 12 [[+Regional_Edge_Caches|Regional Edge Caches]].
+
+Who are leaders in cloud computing?	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+* Amazon Web Services
+* Microsoft
+* Google
+
+Who are the cloud computing visionaries?	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+Alibaba Cloud
+
+Who are the niche players in cloud computing?	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+* Oracle
+* IBM
+* Tencent Cloud
+
+Describe Amazon Web Services.
+Amazon Web Services is a subsidiary of Amazon.	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+
+What is AWS' focus?
+AWS is focused on being a broad-based provider of IT services, ranging from [[+cloud-native]] , and [[+edge]] to [[+ERP]] and [[+mission_critical_workloads]] .	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+
+What is AWS' future focus?
+AWS's future focus is on attempting to own increasingly larger portions of the supply chain used to deliver cloud services to customers.
+It's oprations are geographically diversified, and its clients tend to be early-stage startups to large enterprises.	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+
+What are the strengths of AWS?	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+[[+engineering_supply_chain]]
+[[+large_financial_commitments]]
+[[+innovative_leader]]	
+
+What are some cautions associated with AWS?	[[https://www.gartner.com/doc/reprints?id=1-271OE4VR&ct=210802&st=sb|[ref 4]]]
+[[+challenging_renewals]]
+[[+offering_complexity]]
+[[+bare_bones_offerings]]
+
+What are the AWS Regions?	[[https://aws.amazon.com/about-aws/global-infrastructure/|[ref 3]]]
+[[+Oregon]]
+[[+Northern_California]]
+[[+AWS_GovCloud_US_West]]
+[[+Canada_Central]]
+[[+AWS_GovCloud_US_East]]
+[[+Ohio]]
+[[+Northern_Virginia]]
+[[+Sao_Paolo]]
+[[+Ireland]]
+[[+London]]
+[[+Europe_Stockholm]]
+[[+Paris]]
+[[+Frankfurt]]
+[[+Milan]]
+[[+Spain]]
+[[+Israel]]
+[[+Cape_Town]]
+[[+Bahrain]]
+[[+UAE]]
+[[+Mumbai]]
+
+What is Amazon S3?
+[[+amazon_s3]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

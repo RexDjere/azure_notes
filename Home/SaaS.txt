@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:10:31-04:00
+
+====== SaaS ======
+Created Monday 20 September 2021
+
+References:
+[[https://getnerdio.com/academy/10-popular-software-service-examples/|[ref 1]]]	https://getnerdio.com/academy/10-popular-software-service-examples/
+
+What are SaaS examples?	[[https://getnerdio.com/academy/10-popular-software-service-examples/|[ref 1]]]
+[[+salesforce]]
+[[+office365]]
+[[+box]]
+[[+google_apps]]
+[[+aws]]
+[[+concur]]
+[[+zendesk]]
+[[+docusign]]
+[[+dropbox]]
+[[+slack]]

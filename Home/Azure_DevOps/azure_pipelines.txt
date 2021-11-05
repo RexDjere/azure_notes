@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-24T17:27:16-04:00
+
+====== azure pipelines ======
+Created Tuesday 24 August 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/artifacts-overview?view=azure-devops&tabs=nuget|[ref 1]]]	https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/artifacts-overview?view=azure-devops&tabs=nuget
+
+What is the purpose of Azure Pipelines?
+Azure Pipelines is used to build and test code for software projects, and to make that code available to others.
+
+What are 3 fundamental components of Azure Pipelines?
+[[+continuous_integration]]
+[[+continuous_delivery]]
+[[+continuous_testing]]
+
+What are the supported artificact types in Azure Pipelines? [[https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/artifacts-overview?view=azure-devops&tabs=nuget|[ref 1]]]
+[[+build_artifacts]]
+[[+maven]]
+[[+npm]]
+[[+nuget]]
+[[+pypi]]
+[[+universal_packages]]
+[[+symbols]]
+
+
+

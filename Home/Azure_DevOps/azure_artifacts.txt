@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T15:12:33-04:00
+
+====== azure artifacts ======
+Created Wednesday 25 August 2021
+
+Source documents:
+https://azuredevopslabs.com/labs/azuredevops/packagemanagement/
+
+What is Azure Artifacts?
+Azure Artifacts is an extension to [[Azure DevOps]]  Services and Azure DevOps Server that allows for package management.
+
+What is the primary function of Azure Artifacts?
+To allow users to discover, install, and publish software packages on Azure DevOps using:
+[[+NuGet]]
+[[+npm]]
+[[+Maven]]
+

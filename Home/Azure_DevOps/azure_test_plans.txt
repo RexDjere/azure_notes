@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-25T15:34:59-04:00
+
+====== azure test plans ======
+Created Wednesday 25 August 2021
+
+Source document:
+https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-test-plans/#:~:text=Azure%20Test%20Plans%2C%20a%20service,and%20gathering%20feedback%20from%20stakeholders.
+
+What is Azure Test Plans?
+* a service that is part of [[Azure DevOps]]
+* provides browser-based test management solution for:
+	* exploratory testing
+	* planned manual testing
+	* user acceptance testing

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T15:22:29-04:00
+
+====== platform ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Computing_platform|[ref 1]]]	https://en.wikipedia.org/wiki/Computing_platform
+
+What is a platform?
+A computing platform is an environment in chich a piece of software is executed.	[[https://en.wikipedia.org/wiki/Computing_platform|[ref 1]]]

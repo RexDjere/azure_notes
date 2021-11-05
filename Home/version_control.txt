@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T19:18:18-04:00
+
+====== version control ======
+Created Monday 20 September 2021
+
+References:
+[[https://docs.microsoft.com/en-us/devops/develop/git/what-is-version-control|[ref 1]]]	https://docs.microsoft.com/en-us/devops/develop/git/what-is-version-control
+
+What is version control?
+Version control systems are software that help to track changes made in software over time.	[[https://docs.microsoft.com/en-us/devops/develop/git/what-is-version-control|[ref 1]]]
+

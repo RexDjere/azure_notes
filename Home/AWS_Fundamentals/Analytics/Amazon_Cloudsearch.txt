@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-12T08:46:43-04:00
+
+====== Amazon Cloudsearch ======
+Created Tuesday 12 October 2021
+
+References:
+[[https://aws.amazon.com/cloudsearch/|[ref 1]]]	https://aws.amazon.com/cloudsearch/
+
+What is Amazon CloudSearch?
+Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application.	[[https://aws.amazon.com/cloudsearch/|[ref 1]]]
+
+How many languages does Amazon CloudSearch support>
+34	[[https://aws.amazon.com/cloudsearch/|[ref 1]]]
+

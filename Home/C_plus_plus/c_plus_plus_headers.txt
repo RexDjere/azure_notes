@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-02T00:12:15-04:00
+
+====== c plus plus headers ======
+Created Tuesday 02 November 2021
+
+References:
+[ref 1]	https://en.cppreference.com/w/cpp/header
+
+What are the groupings of C++ Standard Library Headers?
+[[+Concepts_library]]
+[[+Coroutines_library]]
+[[+Utilities_library]]
+[[+Strings_library]]
+[[+Containers_library]]
+[[+Iterators_library]]
+[[+Ranges_library]]
+[[+Algorithms_library]]
+[[+Numeric_library]]
+To be completed later...

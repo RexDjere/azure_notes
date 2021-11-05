@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-31T14:50:37-04:00
+
+====== ISO 9001 2015 ======
+Created Tuesday 31 August 2021
+
+References:
+[[https://www.iso.org/standard/62085.html|[ref 1]]]	https://www.iso.org/standard/62085.html
+
+
+Describe ISO 9001:2015.
+ISO 9001:2015 specifies requirements for a [[+quality_management_system]] where an organization:	[[https://www.iso.org/standard/62085.html|[ref 1]]]
+* needs to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements, and
+* aim to enhance customer satisfaction through the effective application of the system, including processes for improvement of the system and the assurance of conformity to customer and applicable statutory and regulatory requirements.
+All the requirements of ISO 9001:2015 are generic and are intended to be applicable to any organization, regardless of its type or size, or the product and services it provides.

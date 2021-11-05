@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:18:16-04:00
+
+====== abstraction ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://en.wikipedia.org/wiki/Abstraction_(computer_science)
+
+What is abstraction?
+In software engineering and computer science, abstraction is:
+* the process of removing physical, spatial, or temporal details or attributes in the study of objects or systems to focus attention on details of greater importance; it is similar in nature to the process of [[+generalization]];
+* the creation of abstract concept-objects by mirroring common features or attributes of various non-abstract objects or systems of study - the result of the process of abstraction.

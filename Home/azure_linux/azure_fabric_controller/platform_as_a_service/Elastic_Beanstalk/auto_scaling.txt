@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-14T02:08:46-04:00
+
+====== auto scaling ======
+Created Tuesday 14 September 2021
+
+References:
+[[https://blog.mycloudit.com/azure-autoscale-vs.-aws-auto-scaling|[ref 1]]]	https://blog.mycloudit.com/azure-autoscale-vs.-aws-auto-scaling
+
+What is autoscaling?
+"Autoscaling is a systematic method in cloud computing that enables organizations to automate the number of computational resources according to 
+active users' demands." [[https://blog.mycloudit.com/azure-autoscale-vs.-aws-auto-scaling|[ref 1]]]
+
+How is AWS autoscaling set up? [[https://blog.mycloudit.com/azure-autoscale-vs.-aws-auto-scaling|[ref 1]]]
+[[+AWS_Management_Console]]
+[[+CLI]]
+[[+SDK]]
+
+What are Microsoft Azure autoscaling alerts based on? [[https://blog.mycloudit.com/azure-autoscale-vs.-aws-auto-scaling|[ref 1]]]
+* [[+defined_metrics:]]
+	* [[+cpu_status]]
+	* [[+user_response_rates]]
+	* [[+event_triggers]]
+
+
+
+

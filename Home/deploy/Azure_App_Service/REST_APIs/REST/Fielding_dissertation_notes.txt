@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:12:12-04:00
+
+====== Fielding dissertation notes ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+https://www.ics.uci.edu/~fielding/pubs/dissertation/software_arch.htm
+
+What is a software architecture?
+A software architecture is an [[+abstraction]] of the [[+run-time]] elements of a software system during some phase of its operation.
+

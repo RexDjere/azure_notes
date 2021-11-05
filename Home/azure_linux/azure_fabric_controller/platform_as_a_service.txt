@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-02T15:16:06-04:00
+
+====== platform as a service ======
+Created Thursday 02 September 2021
+
+References:
+[[https://en.wikipedia.org/wiki/Platform_as_a_service|[ref 1]]]	https://en.wikipedia.org/wiki/Platform_as_a_service
+[[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/#ref2|[ref 2]]]	https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/#ref2
+[[https://azure.microsoft.com/en-us/overview/what-is-paas/|[ref 3]]]	https://azure.microsoft.com/en-us/overview/what-is-paas/
+[[https://www.youtube.com/watch?v=6L1eQe5E1K4|[ref 4]]]	https://www.youtube.com/watch?v=6L1eQe5E1K4
+[[https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/|[ref 5]]]	https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/
+
+What is platform as a service?
+Platform as a service (PaaS) is a category of cloud computing services that allows customers to provision, instantiate, run, and manage 
+a modular bundle comprising a computing platform and one or more applications, without the complexity of building and maintaining 
+the infastructure typically asssociated with developing and launching the application(s); and to allow developers to create, develop, 
+and package such software bundles. [[https://en.wikipedia.org/wiki/Platform_as_a_service|[ref 1]]]
+
+What is a platform?
+[[+platform]]
+
+What does Paas deliver?
+"PaaS delivers a framework for developers that they can build upon and use to create customized applications." [[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/#ref2|[ref 2]]]
+
+What are the advantages of PaaS? [[https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/#ref2|[ref 2]]]
+* simplicity
+* scalability
+* high availability
+* developers can customize apps
+* reduction in coding
+* automation of business policy
+* easy migration to hybrid model
+
+What is PaaS?
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud. [[https://azure.microsoft.com/en-us/overview/what-is-paas/|[ref 3]]]
+
+
+What are PaaS examples?
+[[+Elastic_Beanstalk]]
+[[+Azure]]
+[[+Heroku]]
+[[+Force.com]]
+[[+Google_App_Engine]]
+[[+OpenShift]]
+
+What is PaaS like?
+PaaS is like renting a car. [[https://www.youtube.com/watch?v=6L1eQe5E1K4|[ref 4]]]
+
+What does the  cloud service provider provide in the PaaS model? [[https://www.youtube.com/watch?v=6L1eQe5E1K4|[ref 4]]]
+* [[+paas_operating_systems]]
+* [[+paas_servers]]
+* [[+paas_databases]]
+* [[+paas_middleware]]
+* [[+paas_networking_equipment]]
+* [[+paas_storage_services]]
+
+PaaS Cloud Service providers offer what services to their customers? [[https://www.cloudflare.com/learning/serverless/glossary/platform-as-a-service-paas/|[ref 5]]]
+[[+development_tools]]
+[[+paas_middleware|middleware]]
+[[+paas_operating_systems|operating_systems]]
+[[+paas_databases|database_management]]
+[[+infrastructure]]
+
+ 
+
+
+
+

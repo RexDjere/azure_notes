@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-30T20:59:48-04:00
+
+====== exploratory testing ======
+Created Monday 30 August 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops|[ref 1]]]	https://docs.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops
+
+How do exploratory and manual testing improve software quality?
+* [[+Quality]] is a vital aspect of software systems, and manual testing and exploratory testing continue to be important techniques for maximizing this. [[https://docs.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops|[ref 1]]]
+* In today's software development processes, everybody in the team owns quality - including developers, managers, product owners, user experience advocates, and more. [[https://docs.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops|[ref 1]]]

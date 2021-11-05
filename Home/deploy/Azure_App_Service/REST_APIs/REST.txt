@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:04:25-04:00
+
+====== REST ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://restfulapi.net/
+https://en.wikipedia.org/wiki/Roy_Fielding
+https://en.wikipedia.org/wiki/Representational_state_transfer
+
+What does REST stand for?
+REST is an acronym for REpresentational State Transfer.
+
+Who created the concept of REST?
+[[https://en.wikipedia.org/wiki/Roy_Fielding|Roy Fielding]]
+
+What is representational state transfer?
+Representational state transfer (REST) is a softwarer architectural style that was created to guide the design and development of the architect for the World WIde Web.
+
+What is the title of Roy Fielding's dissertation that introdued the concept of REST?
+Architectural Styles and the Design of Network-based Software Architectures
+
+Is there a link to Roy Fielding's REST dissertation?
+Yes: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+
+Create notes from Roy Fielding's Dissertation.
+[[+Fielding_dissertation_notes]]

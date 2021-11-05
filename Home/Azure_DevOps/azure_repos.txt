@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-24T17:29:48-04:00
+
+====== azure repos ======
+Created Tuesday 24 August 2021
+
+What is Azure Repos?
+Azure Repos is a set of version control tools that one can use to manage software code.

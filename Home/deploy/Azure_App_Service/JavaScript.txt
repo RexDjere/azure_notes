@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:30:29-04:00
+
+====== JavaScript ======
+Created Thursday 26 August 2021
+
+Source documents:
+https://en.wikipedia.org/wiki/JavaScript
+
+What is Javascript?
+JavaScript (abbreviated JS) is a programming language that conforms to the +ECMAScript specification.
+
+What are the characteristics of JavaScript?
+* high-level
+* often [[+just-in-time]] [[+compiled]]
+* [[+multi-paradigm]]

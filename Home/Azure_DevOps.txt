@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-24T17:23:51-04:00
+
+====== Azure DevOps ======
+Created Tuesday 24 August 2021
+
+References:
+[[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]	https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops
+
+What are the 6 services associated with Azure DevOps?
+[[+azure_boards]]
+[[+azure_pipelines]]
+[[+azure_repos]]
+[[+azure_test_plans]]
+[[+azure_artifacts]]
+[[+extensions_marketplace]]
+
+What is the purpose of Azure DevOps Server?
+[[+azure_devops_server]]
+
+What is Azure DevOps? [[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]
+Azure DevOps allows teams to do the following:
+* plan work
+* collaborate on code development
+* build and deploy applications
+
+How can you access Azure DevOps' features?
+Through your web browser or IDE client.	[[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]
+
+How can you collaborate in Azure DevOps?	[[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]
+* team dashboards
+* built-in wikis
+* configurable notifications
+
+What can Azure DevOps Services integrate with? [[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]
+* GitHub.com repositories
+* GitHub Enterprise Server repositories
+
+When would you choose Azure DevOps?
+When you want the following:	[[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]
+* quick set-up
+* maintenance-free operations
+* easy collaboration across domains
+* elastic scale
+* rock-solid security
+
+What else does Azure DevOps Services give you access to?	[[https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops|[ref 1]]]
+* cloud build
+* deployment servers
+* application insights
+
+
+
+
+
+
+
+
+
+
+
+

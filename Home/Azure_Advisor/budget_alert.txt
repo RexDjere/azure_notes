@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-26T14:44:18-04:00
+
+====== budget alert ======
+Created Thursday 26 August 2021
+
+Source documents:
+[[https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending|[ref 1]]] 		https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending			
+
+What is an Azure Advisor Budget Alert?
+Budget alerts notify you when spending, based on usage or cost, reaches or exceeds the amount defined in the alert condition of the budget. [[https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending|[ref 1]]] 
+
+What is a credit alert?
+Credit alerts notify you when your Azure Prepayment (previously called monetary commitment) is consumed.	[[https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending|[ref 1]]] 

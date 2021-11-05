@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-07T11:10:09-04:00
+
+====== Analytics ======
+Created Thursday 07 October 2021
+
+References:
+[[https://docs.aws.amazon.com/whitepapers/latest/aws-overview/analytics.html|[ref 1]]]	https://docs.aws.amazon.com/whitepapers/latest/aws-overview/analytics.html
+
+What are the components of AWS Analytics? [[https://docs.aws.amazon.com/whitepapers/latest/aws-overview/analytics.html|[ref 1]]]
+[[+Amazon_Athena]]
+[[+Amazon_Cloudsearch]]
+[[+Amazon_EMR]]
+[[+Amazon_FinSpace]]
+[[+Amazon_Kinesis]]
+[[+Amazon_Kinesis_Data_Firehose]]
+[[+Amazon_Kinesis_Data_Analytics]]
+[[+Amazon_Kinesis_Data_Streams]]
+[[+Amazon_Kinesis_Video_Streams]]
+[[+Amazon_OpenSearch_Service]]
+[[+Amazon_Redshift]]
+[[+Amazon_QuickSight]]
+[[+AWS_Data_Exchange]]
+[[+AWS_Data_Pipeline]]
+[[+AWS_Glue]]
+[[+AWS_lake_Formation]]
+[[+Amazon_Managed_Streaming_for_Apache_Kafka]] (Amazon MSK)
+
+
+

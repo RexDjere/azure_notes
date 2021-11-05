@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-22T11:12:04-04:00
+
+====== amazon s3 ======
+Created Friday 22 October 2021
+
+References:
+[[https://www.youtube.com/watch?v=L3dYocCSU-E|[ref 1]]]	https://www.youtube.com/watch?v=L3dYocCSU-E
+
+What is S3?	[[https://www.youtube.com/watch?v=L3dYocCSU-E|[ref 1]]]
+* Stands for Simple Storage Solution
+* Object storage (img, txt, etc.) in a folder structure
+* Cost effective ($0.023 per GB) for storage
+* Built in redundancy with 99.999999999% (11 nines) durability
+
+Why is S3 useful?	[[https://www.youtube.com/watch?v=L3dYocCSU-E|[ref 1]]]
+* Cheap, reliable way to store objects
+* Low latency, high throughput access
+* Can easily be used to host static websites
+* Can integrate with SNS, SQS, Lambda for powerful event driven applications
+* Has mechanisms to shift away old data into long term storage for cost reduction
+
+Steps to upload file to S3:	
+* Step 1: Create bucket
+* Step2: Upload file
+* Step 3: Settings
+
+
+
+
+

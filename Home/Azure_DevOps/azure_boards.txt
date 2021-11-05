@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-24T17:26:01-04:00
+
+====== azure boards ======
+Created Tuesday 24 August 2021
+
+References:
+[[https://www.youtube.com/watch?v=SbFKi6Hflc0|[ref 1]]]	https://www.youtube.com/watch?v=SbFKi6Hflc0
+
+What is Azure Boards?
+Azure Boards is an Azure service for managing the workflow of software projects.
+
+What do you use Azure Boards to accomplish?
+Plan work.	[[https://www.youtube.com/watch?v=SbFKi6Hflc0|[ref 1]]]
+
+What are 4 very important functions of Azure Boards?	[[https://www.youtube.com/watch?v=SbFKi6Hflc0|[ref 1]]]
+* Plan your work with Azure Boards
+* Build your board and backlog
+* Run a sprint
+* Track important work
+
+Where do you log in to Azure Boards?
+dev.azure.com	[[https://www.youtube.com/watch?v=SbFKi6Hflc0|[ref 1]]]
+
+After you login to Azure Boards, how do you create a new project?	[[https://www.youtube.com/watch?v=SbFKi6Hflc0|[ref 1]]]
+Give the project a name and a description.
+
+Describe Azure Compute Services.
+[[+azure_compute_services]]
+
+
+
